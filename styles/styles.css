@@ -4,12 +4,31 @@ html {
 
 h1 {
     color: brown;
+    margin: 10px 0 10px 20px;
 }
 
 .links {
     color: brown;
 }
 
+a {
+    text-decoration: none;
+    color: brown;
+}
+
 em {
     color: blueviolet;
+}
+
+.link-container {
+    background-color: blanchedalmond;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.recipe-container {
+    /* display: block; */
+    padding: 40px;
 }
