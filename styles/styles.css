@@ -4,7 +4,15 @@ html {
 
 h1 {
     color: brown;
-    margin: 10px 0 10px 20px;
+    margin: 0;
+    /* background-color: blanchedalmond; */
+    padding: 10px;
+}
+
+.category-header {
+    color: brown;
+    margin: 0;
+    padding: 10px;
 }
 
 .links {
@@ -24,7 +32,7 @@ em {
     background-color: blanchedalmond;
     width: 400px;
     height: auto;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     padding: 10px;
 }
 
