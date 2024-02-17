@@ -1,0 +1,12 @@
+.recipe-container {
+    /* display: block; */
+    padding: 40px;
+}
+
+.recipe-description {
+    display: block;
+}
+
+.rec-img {
+    display: block;
+}
