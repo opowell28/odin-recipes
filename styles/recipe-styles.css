@@ -3,8 +3,14 @@
     padding: 40px;
 }
 
-.recipe-description {
-    display: block;
+.recipe-info-container {
+    display: flex;
+    align-items: center;
+}
+
+.recipe-text-container {
+    flex: 1;
+    padding: 10px;
 }
 
 .rec-img {
